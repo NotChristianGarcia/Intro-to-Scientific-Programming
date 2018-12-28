@@ -1,6 +1,6 @@
 ### Introduction to Scientific Programming
 **Date:** Fall 2017  
-**Description:**
+**Description:**  
 Covering C++ and Fortran.  
 Class Work contains everyday in-class assignments and homework organized by date and nothing else.  
 Final contains the class final project which is to explicitly simulate a contagion.  
