@@ -1,4 +1,4 @@
-### Introduction to Scientific Programming
+## Introduction to Scientific Programming
 **Date:** Fall 2017  
 **Description:**  
 Covering C++ and Fortran.  
